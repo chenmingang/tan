@@ -2,6 +2,11 @@
   "assets-sort-type": "name",
   "collision-matrix": [
     [
+      true,
+      true
+    ],
+    [
+      true,
       true
     ]
   ],
@@ -21,7 +26,8 @@
   "fit-height": true,
   "fit-width": false,
   "group-list": [
-    "default"
+    "shape",
+    "shui"
   ],
   "last-module-event-record-time": 1563603565144,
   "simulator-orientation": false,
@@ -29,7 +35,6 @@
     "height": 640,
     "width": 960
   },
-  "start-scene": "current",
-  "use-customize-simulator": false,
+  "use-customize-simulator": true,
   "use-project-simulator-setting": false
 }
